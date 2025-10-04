@@ -6,7 +6,7 @@
 <br>
 <h3 align="center"><b> Aspiring Software Developer </b></h3>
 
-I’m a 3rd-year Computer Science student at TU Dublin with a strong passion for software development.<br>I enjoy building efficient, scalable solutions, writing clean code, and continuously learning new technologies to grow my skills.
+I’m a 3rd-year Computer Science student at TU Dublin with a strong passion for software development.<br>I enjoy building efficient, scalable solutions, writing clean code, and continuously learning new technologies to grow my skills :blush:
 
 <br>
 <br>
