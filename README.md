@@ -1,7 +1,7 @@
 <div align=center>
 <br>
   
-![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Hi!%20I'm%20Heeyeon%20Yoon&fontColor=666666&desc=3rd%20Year%20Computer%20Science%20Student%20@%20TUD&descAlignY=70&descAlign=50&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Hi!%20I'm%20Heeyeon%20Yoon&fontColor=666666&desc=Computer%20Science%20Student%20@%20TUD&descAlignY=70&descAlign=50&descSize=20)
 
 <br>
 <h3 align="center"><b> Aspiring Software Developer </b></h3>
