@@ -11,7 +11,7 @@ I’m a 3rd-year Computer Science student at TU Dublin with a strong passion for
 <br>
 <br>
 
-<h3 align="center"><b> PROFILE 📍 </b></h3>
+<h3 align="center"><b> 📍 PROFILE 📍 </b></h3>
   <a href="https://personal-portfolio-lilac-zeta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-ff69b4?style=for-the-badge&logo=About.me&logoColor=FFFFFF"/></a>
   <a href="https://github.com/heeyeonyune" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
   <a href="https://www.linkedin.com/in/heeyeon-yoon-47b169264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/></a>
